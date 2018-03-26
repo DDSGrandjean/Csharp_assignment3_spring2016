@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Assignment3
 {
-    class Program
+    class Main
     {
         static void Main(string[] args)
         {
